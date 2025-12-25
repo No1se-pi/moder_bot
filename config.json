@@ -1,0 +1,24 @@
+{
+  "chats": {
+    "-1002711574810": {
+      "enabled": true,
+      "close_time": "3:45",
+      "open_time": "3:46",
+      "topic_ids": [
+        43,
+        42
+      ]
+    },
+    "-1003471207629": {
+      "enabled": true,
+      "close_time": "3:53",
+      "open_time": "3:54",
+      "topic_ids": [
+        11
+      ]
+    }
+  },
+  "admins": [
+    1744427399
+  ]
+}
